@@ -20,7 +20,7 @@ st.set_page_config(
 # TITLE
 # =====================================================
 
-st.title("📊 AI Excel Report Dashboard")
+st.title("📊 Excel Report Dashboard")
 
 st.write(
     "Upload an Excel file and explore your data interactively."
