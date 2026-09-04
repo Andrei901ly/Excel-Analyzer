@@ -10,7 +10,7 @@ from analyzer import analyze_excel
 # =====================================================
 
 st.set_page_config(
-    page_title="AI Excel Dashboard",
+    page_title="Excel Dashboard",
     page_icon="📊",
     layout="wide"
 )
